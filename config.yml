@@ -1,0 +1,22 @@
+user:
+  name: Nombre1 Nombre2 Apellido1 Apellido2
+  nid: 1111111111
+  nidCity: AlgunaCiudad
+bank:
+  bankName: AlgunBanco
+  bankNum: 123456789
+target:
+  business: Alguna empresa S.A.S
+  nit: 123.123.123-2
+service:
+  amount: x.000.000
+custom_date:
+  day: 15
+  dayStart: 1
+  dayEnd: 28
+  month: febrero
+  monthStart: febrero
+  monthEnd: febrero
+  year: 2021
+  yearStart: 2021
+  yearEnd: 2021
