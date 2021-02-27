@@ -2,7 +2,6 @@
 ## Paso 1:
 ~~~
 python -m venv env
-python -m pip install --upgrade pip
 ~~~
 
 ## Paso 2:
@@ -18,6 +17,7 @@ env\Scripts\activate.bat
 
 ## Paso 3:
 ~~~
+python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
 ~~~
 
